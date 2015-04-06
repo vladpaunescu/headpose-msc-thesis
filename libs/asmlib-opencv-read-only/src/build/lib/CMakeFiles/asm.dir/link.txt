@@ -1,0 +1,2 @@
+/usr/bin/ar cr libasm.a  CMakeFiles/asm.dir/modelfile.cpp.o CMakeFiles/asm.dir/asmmodel.cpp.o CMakeFiles/asm.dir/shapevec.cpp.o CMakeFiles/asm.dir/similaritytrans.cpp.o CMakeFiles/asm.dir/afreader.cpp.o CMakeFiles/asm.dir/modelimage.cpp.o CMakeFiles/asm.dir/shapemodel.cpp.o CMakeFiles/asm.dir/shapeinfo.cpp.o
+/usr/bin/ranlib libasm.a

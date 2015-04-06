@@ -1,0 +1,2 @@
+/home/vlad/svn/asmlib-opencv-read-only/src/build/lib/CMakeFiles/asm.dir
+/home/vlad/svn/asmlib-opencv-read-only/src/build/demo/CMakeFiles/demo.dir

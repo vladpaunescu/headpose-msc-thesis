@@ -1,0 +1,3 @@
+/home/vlad/git/disertation/libs/asmlib-opencv-read-only/src/out/lib/CMakeFiles/asm.dir
+/home/vlad/git/disertation/libs/asmlib-opencv-read-only/src/out/demo/CMakeFiles/demo.dir
+/home/vlad/git/disertation/libs/asmlib-opencv-read-only/src/out/CMakeFiles/doc.dir
