@@ -1,0 +1,15 @@
+-I/usr/include/opencv
+-I/usr/include
+-I/usr/include/qt4
+-I/usr/include/qt4/QtGui
+-I/usr/include/qt4/QtCore
+-D_GLIBCXX_PROFILE
+-DVERSION='"0.3"'
+-DPKGDATADIR="/usr/local//share"
+-DBINDIR="/usr/local//bin"
+-DQT_NO_DEBUG
+-DQT_GUI_LIB
+-DQT_CORE_LIB
+-o
+/home/vlad/git/disertation/libs/aam-opencv/build/include/moc_aamTrainer.cxx
+/home/vlad/git/disertation/libs/aam-opencv/include/aamTrainer.h

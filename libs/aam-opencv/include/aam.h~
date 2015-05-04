@@ -1,0 +1,8 @@
+
+#ifndef _INCL_GUARD_AA
+#define _INCL_GUARD_AA
+
+#define numberofpoints 40
+#define totalnumberofpoints 80
+
+#endif

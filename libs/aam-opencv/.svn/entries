@@ -1,0 +1,77 @@
+10
+
+dir
+14
+https://aam-opencv.googlecode.com/svn/trunk
+https://aam-opencv.googlecode.com/svn
+
+
+
+2010-04-30T17:47:05.552947Z
+14
+rohananil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+184cc4ce-1153-11de-b0d4-7fec019aa467
+
+build
+dir
+
+cmake
+dir
+
+include
+dir
+
+src
+dir
+
+CMakeLists.txt
+file
+15
+
+
+
+2010-02-18T18:09:58.000000Z
+9d2f95fbeb7340a78acac64b256826f0
+2010-04-30T18:00:06.412676Z
+15
+rohananil
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2305
+
+aam
+dir
+

@@ -1,0 +1,2 @@
+/home/vlad/git/disertation/libs/aam-opencv/build/CMakeFiles/qt-aamtrainer.dir
+/home/vlad/git/disertation/libs/aam-opencv/build/CMakeFiles/runner.dir
